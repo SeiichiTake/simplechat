@@ -1,0 +1,11 @@
+{
+    "body": "{\"message\":\"こんにちは\",\"conversationHistory\":[]}",
+    "requestContext": {
+      "authorizer": {
+        "claims": {
+          "email": "test@example.com"
+        }
+      }
+    }
+  }
+  
